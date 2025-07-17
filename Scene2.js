@@ -13,28 +13,28 @@ create(){
 
     this.anims.create({
         key: "ship1_anim",
-        frames: this.anims.generateFrameNumers("ship"),
+        frames: this.anims.generateFrameNumbers("ship"),
         frameRate: 20,
         repeat: -1
     });
 
     this.anims.create({
         key: "ship2_anim",
-        frames: this.anims.generateFrameNumers("ship2"),
+        frames: this.anims.generateFrameNumbers("ship2"),
         frameRate: 20,
         repeat: -1
     });
 
     this.anims.create({
         key: "ship3_anim",
-        frames: this.anims.generateFrameNumers("ship3"),
+        frames: this.anims.generateFrameNumbers("ship3"),
         frameRate: 20,
         repeat: -1
     });
 
     this.anims.create({
         key: "explode",
-        frames: this.anims.generateFrameNumers("explosion"),
+        frames: this.anims.generateFrameNumbers("explosion"),
         frameRate: 20,
         repeat: 0,
         hideOnComplete: true
