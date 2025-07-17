@@ -3,8 +3,10 @@ class Scene2 extends Phaser.Scene {
         super("playGame");
     }
 
-    create(){
-        this.add.text(20,20, "Playing Game", {font: "25px Arial", fill: "yellow"});
-    }
+create(){
+    this.background = this.add.image(0,0,"background");
+    this.background.setOrigin(0,0);
+    this.add.text(20,20, "Playing Game", {font: "25px Arial", fill: "yellow"});
+}
 
 }
