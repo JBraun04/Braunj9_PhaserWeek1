@@ -1,5 +1,3 @@
-window.onload = function() {
-    
 var config = {
     width: 800,
     height: 600,
@@ -7,6 +5,6 @@ var config = {
     scene: [Scene1, Scene2]
 }
 
-
+window.onload = function() {
     var game = new Phaser.Game(config);
 }
