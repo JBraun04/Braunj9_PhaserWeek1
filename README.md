@@ -1,1 +1,7 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19948849&assignment_repo_type=AssignmentRepo)
+I thoroughly enjoyed watching this series and learning how to use Phaser to develop video games. It answered a lot of questions I used to have about how things are done in game development. 
+
+I followed along with the tutorials from start to finish and was able to get the final result to run without errors. Therefore, I feel like I should get full credit on the assignment.
+
+Some challenges that I faced included incorrectly capitalizing some variables, which caused confusion in the code. Additionally, I had accidentally pasted the wrong stuff in Scene 1 at one point which took me a while to figure out.
+
+Time spent on this assignment: 8 hours
